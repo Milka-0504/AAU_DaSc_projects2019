@@ -4,6 +4,7 @@
 
 This project demonstrates basic Git and GitHub operations using a
 simple Python script that creates a sample dataset.
+This project was created as part of Assignment 1: Git and GitHub.
 
 ## 2. Objectives
 
